@@ -1,3 +1,15 @@
 #solution p, pre {
 	margin: 0em 0em;
 }
+ul {
+	list-style-type: none;
+}
+
+.bclass {
+	margin: 2em;
+	border-radius: 1em;
+	font-size: 24px;
+}
+.bclass:hover {
+	background-color: lightblue;
+}
